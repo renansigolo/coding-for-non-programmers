@@ -6,6 +6,3 @@
 
 ## Exercises
 
-* [Hacking the planet](exercises/hacking-the-planet.md)
-* [Our first app we never forget](exercises/our-first-app-we-never-forget.md)
-

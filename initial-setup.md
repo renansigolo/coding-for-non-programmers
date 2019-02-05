@@ -14,7 +14,7 @@ If you have any questions please ask one of our Heros  🦸🏻‍♀️🦸🏻
 
 ### On your 💻
 
-* [ ] Connect to our Wifi - **WeWorkGuest**
+* [ ] Connect a Wi-Fi Network
 * [ ] Download and install [Google Chrome](https://www.google.com/chrome/)
 * [ ] If you still don't have, create a [Gmail Account](https://accounts.google.com/signup)
 * [ ] Download all assets for this course available at our [Tresorit Folder](https://web.tresorit.com/l#bOzGmHaonEij9V1Nqv8btw)
@@ -25,7 +25,7 @@ If you have any questions please ask one of our Heros  🦸🏻‍♀️🦸🏻
 
 ### On your 📱
 
-* [ ] Connect to our Wifi - **WeWorkGuest**
+* [ ] Connect to a Wi-Fi Network
 * [ ] Download [Thunkable](https://thunkable.com/#/)
   * [ ] [iOS](https://itunes.apple.com/au/app/thunkable-live/id1223262700?mt=8)
   * [ ] [Android](https://play.google.com/store/apps/details?id=com.thunkable.live)

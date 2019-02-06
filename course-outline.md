@@ -4,12 +4,12 @@
 
 ### **What we’ll do:**
 
-Always wanted to build your own mobile app? Join our workshop to learn about the history of coding, key coding terminology and the different programming languages. We promise this is not one of those boring workshops - you’ll learn about how pages are developed using the latest tools, learn to design your first prototype and build your first APP, with no prior knowledge needed!
+Always wanted to build your own mobile app? Join our workshop to learn about the future of technology, key coding terminology and the different programming languages. We promise this is not one of those boring workshops - you’ll learn about how pages are developed using the latest tools, learn to design your first prototype and build your first APP, with no prior knowledge needed!
 
 ### **You will Learn...**
 
 * To build your first app!
-* How this technology phenomenon started
+* The biases of technology
 * The challenges of programming
 * Awesome wireframe tools
 * What you need to become a professional developer

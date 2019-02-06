@@ -46,3 +46,7 @@ Break it down into steps
 
 ![Create the logic on the Blocks Tab](../.gitbook/assets/screenshot-2019-02-03-at-4.23.31-pm.png)
 
+## Challenge
+
+Now that you've successfully created your app, try adding the [Text To Speech](https://docs.thunkable.com/thunkable-classic-android/create/components/voice/text-to-speech) functionality 
+

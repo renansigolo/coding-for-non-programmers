@@ -9,7 +9,7 @@ description: Before we start let's get a few things right
 Before we start it's important to have everything we need ready to go!
 
 {% hint style="info" %}
-If you have any questions please ask one of our Heros  🦸🏻‍♀️🦸🏻‍♂️🦹🏽‍♀️🦹🏼‍♂️
+If you have any questions please ask one of our Heroes  🦸🏻‍♀️🦸🏻‍♂️🦹🏽‍♀️🦹🏼‍♂️
 {% endhint %}
 
 ### On your 💻

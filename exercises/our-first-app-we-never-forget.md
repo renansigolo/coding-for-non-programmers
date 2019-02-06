@@ -11,7 +11,7 @@ You'll be creating a virtual version of the Magic 8 Ball!
 You’ll implement a simple mobile app that generates magical answers. The user can touch the Magic Ball on the screen of their devices and the app will randomly select one of the phrases that you'll be creating and speak it to the user. There is no limit on how many answers we can have.
 
 {% hint style="info" %}
-You can check the video of this exercise available at our [Vimeo Channel](https://vimeo.com/315156554)
+You can check the video of this exercise available at our [Youtube Channel](https://youtu.be/H9HWBGVw2_E)
 {% endhint %}
 
 

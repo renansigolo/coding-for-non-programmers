@@ -5,7 +5,7 @@ description: "A walkthrough on how to hack the \uD83C\uDF0F"
 # Hacking the planet
 
 {% hint style="info" %}
-You can check the video of this exercise available at our [Vimeo Channel](https://vimeo.com/315156482)
+You can check the video of this exercise available at our [Youtube Channel](https://youtu.be/h11jGPEyi80%20)
 {% endhint %}
 
 1. Choose  your target \(we gonna be using the [New South Wales Website](https://www.nsw.gov.au/) as an example\) 

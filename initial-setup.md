@@ -14,10 +14,10 @@ If you have any questions please ask one of our Heros  🦸🏻‍♀️🦸🏻
 
 ### On your 💻
 
-* [ ] Connect a Wi-Fi Network
+* [ ] Connect to a Wi-Fi Network
 * [ ] Download and install [Google Chrome](https://www.google.com/chrome/)
 * [ ] If you still don't have, create a [Gmail Account](https://accounts.google.com/signup)
-* [ ] Download all assets for this course available at our [Tresorit Folder](https://web.tresorit.com/l#bOzGmHaonEij9V1Nqv8btw)
+* [ ] Download all assets for this course available at our [Tresorit Folder](https://web.tresorit.com/l#G2IK43TO6Kp4Zh-B7oj9og)
 * [ ] Feel free to add some personality to our [Spotify Playlist](https://open.spotify.com/user/renan.sigolo/playlist/2XUQnFSeVIPQjXcc3IOcwm?si=rNQIRIi1QdS-d0PcVyKskg)
 * [ ] [Import the Bookmarks File](https://support.google.com/chrome/answer/96816?hl=en) from the link below
 

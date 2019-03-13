@@ -41,16 +41,16 @@ We look forward to seeing you there.
       <td style="text-align:left">
         <p>Renan Sigolo is a full stack web developer with broad experience, ranging
           from start-ups, such as Mastertech and Stitch to established multi-national
-          companies in different industries such as McDonald’s, Apple, Fox International
-          Channels and Fox Sports. His creativity and enthusiasm was crucial to train,
-          qualify students and also build the initial structure for a project on
-          Facebook to teach over 7,000 people how to code.</p>
+          companies in different industries such as McDonald&#x2019;s, Apple, Fox
+          International Channels and Fox Sports. His creativity and enthusiasm was
+          crucial to train, qualify students and also build the initial structure
+          for a project on Facebook to teach over 7,000 people how to code.</p>
         <p></p>
         <p>Renan is certified by the University of Cambridge and graduated in Business
           Management with an MBA in IT Management.</p>
         <p></p>
-        <p>Renan’s passion for development, coding and drive for constant growth
-          has allowed him to identify and carve out a particular niche targeting
+        <p>Renan&#x2019;s passion for development, coding and drive for constant
+          growth has allowed him to identify and carve out a particular niche targeting
           individuals with a variety of programming backgrounds and skills - that
           are looking for better ways to upskill themselves in an increasingly demanding
           and competitive technological focused workplace. As such, devAcademy was

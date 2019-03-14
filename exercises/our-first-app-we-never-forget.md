@@ -58,3 +58,7 @@ Check the links below in order to publish your app for iOS or Android
 
 Now that you've successfully created your app, try adding the [Text To Speech](https://docs.thunkable.com/thunkable-classic-android/create/components/voice/text-to-speech) functionality 
 
+![Drag the Text To Speech component into your app](../.gitbook/assets/screenshot-2019-03-14-at-2.00.25-pm.png)
+
+![Use the Text\_To\_Speech call Speak to read the value of your variable](../.gitbook/assets/screenshot-2019-03-14-at-2.01.20-pm.png)
+
